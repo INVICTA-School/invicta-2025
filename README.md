@@ -1,6 +1,6 @@
 # invicta-2025
 ![INVICTA2025](INVICTA2025_banner.png)
-Hello and welcome to the official repository of the INVICTA Spring School 2024.
+Hello and welcome to the official repository of the INVICTA Spring School 2025.
 
 # Sessions
 ## Towards stronger and safer vision-language models
