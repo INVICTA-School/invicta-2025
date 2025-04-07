@@ -7,7 +7,7 @@ Hello and welcome to the official repository of the INVICTA Spring School 2025.
 ### by Yongshuo Zong
 Talk - [Slides]()
 
-Hands-On - [Notebooks](Sessions/Towards stronger and safer vision-language models/Notebooks/)
+Hands-On - [Notebooks]([Sessions/Towards stronger and safer vision-language models/Notebooks/](https://github.com/INVICTA-School/invicta-2025/tree/e8ba91f2dfd3b182fe263b9dab96a0d9e19a5e92/Sessions/Towards%20stronger%20and%20safer%20vision-language%20models))
 
 Sessions/Towards stronger and safer vision-language models/Notebooks
 
