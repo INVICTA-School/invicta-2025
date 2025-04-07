@@ -9,6 +9,8 @@ Talk - [Slides]()
 
 Hands-On - [Notebooks](Sessions/Towards stronger and safer vision-language models/Notebooks/)
 
+Sessions/Towards stronger and safer vision-language models/Notebooks
+
 GitHub - [GitHub](https://github.com/ys-zong)
 
 # AI Talks
