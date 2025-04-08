@@ -5,13 +5,22 @@ Hello and welcome to the official repository of the INVICTA Spring School 2025.
 # Sessions
 ## Towards stronger and safer vision-language models
 ### by Yongshuo Zong
-Talk - 
+Talk -
 
 Hands-On - [Sessions/Towards stronger and safer vision-language models/Notebooks/](https://github.com/INVICTA-School/invicta-2025/tree/e8ba91f2dfd3b182fe263b9dab96a0d9e19a5e92/Sessions/Towards%20stronger%20and%20safer%20vision-language%20models)
 
 Sessions/Towards stronger and safer vision-language models/Notebooks
 
 GitHub - [GitHub](https://github.com/ys-zong)
+
+## What's catching your eye? - Bioinspired and neuromorphic algorithms to model visual attention
+### by Giulia d'Angelo
+
+Talk - 
+
+Hands-On -
+
+GitHub - [GitHub](https://github.com/GiuliaDAngelo/CTU-EDNeuromorphic)
 
 # AI Talks
 
