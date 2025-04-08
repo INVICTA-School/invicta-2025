@@ -16,9 +16,9 @@ GitHub - [GitHub](https://github.com/ys-zong)
 ## What's catching your eye? - Bioinspired and neuromorphic algorithms to model visual attention
 ### by Giulia d'Angelo
 
-Talk - 
+Talk - [Sessions/Whats catching your eye - Bioinspired and neuromorphic algorithms to model visual attention/Slides/](https://github.com/INVICTA-School/invicta-2025/tree/1196ec89de03a207dda01a8caac1a8cfd2243318/Sessions/Whats%20catching%20your%20eye%20-%20Bioinspired%20and%20neuromorphic%20algorithms%20to%20model%20visual%20attention/Slides)
 
-Hands-On -
+Hands-On - See GitHub Repository 
 
 GitHub - [GitHub](https://github.com/GiuliaDAngelo/CTU-EDNeuromorphic)
 
