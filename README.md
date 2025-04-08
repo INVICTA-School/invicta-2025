@@ -9,8 +9,6 @@ Talk -
 
 Hands-On - [Sessions/Towards stronger and safer vision-language models/Notebooks/](https://github.com/INVICTA-School/invicta-2025/tree/e8ba91f2dfd3b182fe263b9dab96a0d9e19a5e92/Sessions/Towards%20stronger%20and%20safer%20vision-language%20models)
 
-Sessions/Towards stronger and safer vision-language models/Notebooks
-
 GitHub - [GitHub](https://github.com/ys-zong)
 
 ## What's catching your eye? - Bioinspired and neuromorphic algorithms to model visual attention
@@ -31,5 +29,17 @@ AI Talk - [Slides](ai-talks/)
 
 ## Building reliable GenAI systems
 ### by Eduardo Castro
+
+AI Talk - [Slides](ai-talks/)
+
+
+## Computer Vision and Machine Learning Challenges in Cancer Research
+### by Hélder P. Oliveira
+
+AI Talk - [Slides](ai-talks/)
+
+
+## The AI Canvas: A Lingua Franca for AI
+### by Kelwin Fernades
 
 AI Talk - [Slides](ai-talks/)
