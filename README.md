@@ -9,7 +9,7 @@ Talk -
 
 Hands-On - [Sessions/Towards stronger and safer vision-language models/Notebooks/](https://github.com/INVICTA-School/invicta-2025/tree/e8ba91f2dfd3b182fe263b9dab96a0d9e19a5e92/Sessions/Towards%20stronger%20and%20safer%20vision-language%20models)
 
-GitHub - [GitHub](https://github.com/ys-zong)
+Yongshuo's GitHub - [GitHub](https://github.com/ys-zong)
 
 ## What's catching your eye? - Bioinspired and neuromorphic algorithms to model visual attention
 ### by Giulia d'Angelo
@@ -18,16 +18,22 @@ Talk - [Sessions/Whats catching your eye - Bioinspired and neuromorphic algorith
 
 Hands-On - See GitHub Repository 
 
-GitHub - [GitHub](https://github.com/GiuliaDAngelo/CTU-EDNeuromorphic)
+GitHub - [Tutorial](https://github.com/GiuliaDAngelo/CTU-EDNeuromorphic)
+
+Giulia's GitHub - [GitHub](https://github.com/GiuliaDAngelo)
+
 
 ## Diffusion Models in Medical Imaging: From Synthetic Data to Detecting the Unknown
 ### by Cosmin Bercea
 
 Talk - [Sessions/Diffusion Models in Medical Imaging - From Synthetic Data to Detecting the Unknown/Slides/](https://github.com/INVICTA-School/invicta-2025/tree/55d8055d1ca1cb73dc3e36471f1f2668ada969f3/Sessions/Diffusion%20Models%20in%20Medical%20Imaging%20-%20From%20Synthetic%20Data%20to%20Detecting%20the%20Unknown/Slides)
 
-Hands-On - [Sessions/Diffusion Models in Medical Imaging - From Synthetic Data to Detecting the Unknown/Notebooks](https://github.com/INVICTA-School/invicta-2025/tree/55d8055d1ca1cb73dc3e36471f1f2668ada969f3/Sessions/Diffusion%20Models%20in%20Medical%20Imaging%20-%20From%20Synthetic%20Data%20to%20Detecting%20the%20Unknown/Notebooks)
+Hands-On - See GitHub Repository 
 
-GitHub - [GitHub](https://github.com/ci-ber)
+GitHub - [Tutorial](https://github.com/compai-lab/INVICTA_tutorial)
+
+Cosmin's GitHub - [GitHub](https://github.com/ci-ber)
+
 
 
 # AI Talks
