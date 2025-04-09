@@ -58,4 +58,6 @@ AI Talk - [Slides](ai-talks/)
 ## The AI Canvas: A Lingua Franca for AI
 ### by Kelwin Fernades
 
-AI Talk - [Slides](ai-talks/)
+AI Talk - [AI Talks/Diffusion Models in Medical Imaging: From Synthetic Data to Detecting the Unknown/](https://github.com/INVICTA-School/invicta-2025/tree/5a2bef4687fb0bf42559a8f035af83edc404cb04/AI%20Talks/Diffusion%20Models%20in%20Medical%20Imaging%3A%20From%20Synthetic%20Data%20to%20Detecting%20the%20Unknown)
+
+
