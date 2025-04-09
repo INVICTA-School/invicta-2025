@@ -7,7 +7,7 @@ Hello and welcome to the official repository of the INVICTA Spring School 2025.
 ### by Yongshuo Zong
 Talk -
 
-Hands-On - [Sessions/Towards stronger and safer vision-language models/Notebooks/](https://github.com/INVICTA-School/invicta-2025/tree/e8ba91f2dfd3b182fe263b9dab96a0d9e19a5e92/Sessions/Towards%20stronger%20and%20safer%20vision-language%20models)
+Hands-On - [Notebook](https://github.com/INVICTA-School/invicta-2025/tree/e8ba91f2dfd3b182fe263b9dab96a0d9e19a5e92/Sessions/Towards%20stronger%20and%20safer%20vision-language%20models)
 
 Yongshuo's GitHub - [GitHub](https://github.com/ys-zong)
 
@@ -26,7 +26,7 @@ Giulia's GitHub - [GitHub](https://github.com/GiuliaDAngelo)
 ## Diffusion Models in Medical Imaging: From Synthetic Data to Detecting the Unknown
 ### by Cosmin Bercea
 
-Talk - [Sessions/Diffusion Models in Medical Imaging - From Synthetic Data to Detecting the Unknown/Slides/](https://github.com/INVICTA-School/invicta-2025/tree/55d8055d1ca1cb73dc3e36471f1f2668ada969f3/Sessions/Diffusion%20Models%20in%20Medical%20Imaging%20-%20From%20Synthetic%20Data%20to%20Detecting%20the%20Unknown/Slides)
+Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/55d8055d1ca1cb73dc3e36471f1f2668ada969f3/Sessions/Diffusion%20Models%20in%20Medical%20Imaging%20-%20From%20Synthetic%20Data%20to%20Detecting%20the%20Unknown/Slides)
 
 Hands-On - See GitHub Repository 
 
@@ -58,6 +58,6 @@ AI Talk - [Slides](ai-talks/)
 ## The AI Canvas: A Lingua Franca for AI
 ### by Kelwin Fernades
 
-AI Talk - [AI Talks/Diffusion Models in Medical Imaging: From Synthetic Data to Detecting the Unknown/](https://github.com/INVICTA-School/invicta-2025/tree/5a2bef4687fb0bf42559a8f035af83edc404cb04/AI%20Talks/Diffusion%20Models%20in%20Medical%20Imaging%3A%20From%20Synthetic%20Data%20to%20Detecting%20the%20Unknown)
+AI Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/5a2bef4687fb0bf42559a8f035af83edc404cb04/AI%20Talks/Diffusion%20Models%20in%20Medical%20Imaging%3A%20From%20Synthetic%20Data%20to%20Detecting%20the%20Unknown)
 
 
