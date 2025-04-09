@@ -20,6 +20,16 @@ Hands-On - See GitHub Repository
 
 GitHub - [GitHub](https://github.com/GiuliaDAngelo/CTU-EDNeuromorphic)
 
+## Diffusion Models in Medical Imaging: From Synthetic Data to Detecting the Unknown
+### by Cosmin Bercea
+
+Talk - [Sessions/Diffusion Models in Medical Imaging - From Synthetic Data to Detecting the Unknown/Slides/](https://github.com/INVICTA-School/invicta-2025/tree/55d8055d1ca1cb73dc3e36471f1f2668ada969f3/Sessions/Diffusion%20Models%20in%20Medical%20Imaging%20-%20From%20Synthetic%20Data%20to%20Detecting%20the%20Unknown/Slides)
+
+Hands-On - [Sessions/Diffusion Models in Medical Imaging - From Synthetic Data to Detecting the Unknown/Notebooks](https://github.com/INVICTA-School/invicta-2025/tree/55d8055d1ca1cb73dc3e36471f1f2668ada969f3/Sessions/Diffusion%20Models%20in%20Medical%20Imaging%20-%20From%20Synthetic%20Data%20to%20Detecting%20the%20Unknown/Notebooks)
+
+GitHub - [GitHub](https://github.com/ci-ber)
+
+
 # AI Talks
 
 ## View-to-communicate and communicate-to-view: the CONVERGE Project
