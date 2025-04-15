@@ -43,18 +43,16 @@ Cosmin's GitHub - [GitHub](https://github.com/ci-ber)
 
 AI Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/20bd160c654c950f869136df47207b746a0a737b/AI%20Talks/View-to-communicate%20and%20communicate-to-view%20-%20the%20CONVERGE%20Project)
 
-AI Talks/View-to-communicate and communicate-to-view - the CONVERGE Project
-
 ## Building reliable GenAI systems
 ### by Eduardo Castro
 
-AI Talk - [Slides](ai-talks/)
+AI Talk - [Slides]()
 
 
 ## Computer Vision and Machine Learning Challenges in Cancer Research
 ### by Hélder P. Oliveira
 
-AI Talk - [Slides](ai-talks/)
+AI Talk - [Slides]()
 
 
 ## The AI Canvas: A Lingua Franca for AI
