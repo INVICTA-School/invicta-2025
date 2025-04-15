@@ -41,7 +41,9 @@ Cosmin's GitHub - [GitHub](https://github.com/ci-ber)
 ## View-to-communicate and communicate-to-view: the CONVERGE Project
 ### by Luís Pessoa
 
-AI Talk - [Slides](ai-talks/)
+AI Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/20bd160c654c950f869136df47207b746a0a737b/AI%20Talks/View-to-communicate%20and%20communicate-to-view%20-%20the%20CONVERGE%20Project)
+
+AI Talks/View-to-communicate and communicate-to-view - the CONVERGE Project
 
 ## Building reliable GenAI systems
 ### by Eduardo Castro
@@ -58,6 +60,6 @@ AI Talk - [Slides](ai-talks/)
 ## The AI Canvas: A Lingua Franca for AI
 ### by Kelwin Fernades
 
-AI Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/5a2bef4687fb0bf42559a8f035af83edc404cb04/AI%20Talks/Diffusion%20Models%20in%20Medical%20Imaging%3A%20From%20Synthetic%20Data%20to%20Detecting%20the%20Unknown)
+AI Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/20bd160c654c950f869136df47207b746a0a737b/AI%20Talks/The%20AI%20Canvas%20-%20A%20Lingua%20Franca%20for%20AI)
 
 
