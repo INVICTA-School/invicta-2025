@@ -97,7 +97,7 @@ AI Talk - [Slides]()
 ## Data Representativeness: What Are We Missing?
 ### by Susana Brás
 
-AI Talk - [Slides]()
+AI Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/4abfbd5b63214edcb842e50417bc31d738b6b20f/AI%20Talks/Data%20Representativeness%20-%20What%20Are%20We%20Missing)
 
 
 
