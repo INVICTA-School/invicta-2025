@@ -35,6 +35,33 @@ GitHub - [Tutorial](https://github.com/compai-lab/INVICTA_tutorial)
 Cosmin's GitHub - [GitHub](https://github.com/ci-ber)
 
 
+## Explainable AI in Healthcare: Fundamentals, Challenges, and the Road to Trustworthy AI
+### by Wilson Silva
+
+Talk - [Slides]()
+
+Hands-On - [Tutorial]()
+
+Wilson's GitHub - [GitHub]()
+
+
+## Knowledge Distillation: Compact Model Performance for Scalable, Green, and Efficient Deployment
+### by Fadi Boutros
+
+Talk - [Slides]()
+
+Hands-On - [Tutorial]()
+
+Fadi's GitHub - [GitHub]()
+
+# Case-Study
+
+## Generating Synthetic Retinal Fundus Images with Diffusion Models
+### by Luís Rosado and Ivo Façoco
+
+Talk - [Slides]
+
+Hands-On - [Tutorial]
 
 # AI Talks
 
@@ -46,7 +73,7 @@ AI Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/20bd160c6
 ## Building reliable GenAI systems
 ### by Eduardo Castro
 
-AI Talk - [Slides]()
+AI Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/aebab9214840e1bfb859df9bfded449a50e19ab8/AI%20Talks/Building%20reliable%20GenAI%20systems)
 
 
 ## Computer Vision and Machine Learning Challenges in Cancer Research
@@ -59,5 +86,18 @@ AI Talk - [Slides]()
 ### by Kelwin Fernades
 
 AI Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/20bd160c654c950f869136df47207b746a0a737b/AI%20Talks/The%20AI%20Canvas%20-%20A%20Lingua%20Franca%20for%20AI)
+
+
+## AISym4MED - improving the healthcare data system and fostering robust medical AI
+### by Luís Rosado
+
+AI Talk - [Slides]()
+
+
+## Data Representativeness: What Are We Missing?
+### by Susana Brás
+
+AI Talk - [Slides]()
+
 
 
