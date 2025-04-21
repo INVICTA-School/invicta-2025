@@ -59,9 +59,9 @@ Fadi's GitHub - [GitHub]()
 ## Generating Synthetic Retinal Fundus Images with Diffusion Models
 ### by Luís Rosado and Ivo Façoco
 
-Talk - [Slides]
+Hands-On - See GitHub Repository 
 
-Hands-On - [Tutorial]
+GitHub - [Tutorial](https://github.com/fraunhoferportugal/pymdma/)
 
 # AI Talks
 
@@ -91,7 +91,7 @@ AI Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/20bd160c6
 ## AISym4MED - improving the healthcare data system and fostering robust medical AI
 ### by Luís Rosado
 
-AI Talk - [Slides]()
+AI Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/8f72b2fe958027881becefa3e5b0f0601c6556f8/AI%20Talks/AISym4MED%20-%20improving%20the%20healthcare%20data%20system%20and%20fostering%20robust%20medical%20AI)
 
 
 ## Data Representativeness: What Are We Missing?
