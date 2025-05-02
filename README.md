@@ -52,7 +52,7 @@ Talk - [Slides]()
 
 Hands-On - [Tutorial]()
 
-Fadi's GitHub - [GitHub]()
+Fadi's GitHub - [GitHub](https://github.com/fdbtrs)
 
 # Case-Study
 
@@ -79,7 +79,7 @@ AI Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/aebab9214
 ## Computer Vision and Machine Learning Challenges in Cancer Research
 ### by Hélder P. Oliveira
 
-AI Talk - [Slides]()
+AI Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/d24601bd2372628524263592cd6c5322d455a15a/AI%20Talks/Computer%20Vision%20and%20Machine%20Learning%20Challenges%20in%20Cancer%20Research)
 
 
 ## The AI Canvas: A Lingua Franca for AI
