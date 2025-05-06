@@ -48,9 +48,11 @@ Wilson's GitHub - [GitHub]()
 ## Knowledge Distillation: Compact Model Performance for Scalable, Green, and Efficient Deployment
 ### by Fadi Boutros
 
-Talk - [Slides]()
+Talk - See GitHub Repository 
 
-Hands-On - [Tutorial]()
+Hands-On - See GitHub Repository 
+
+GitHub - [Slides & Tutorial](https://github.com/fdbtrs/Invicta)
 
 Fadi's GitHub - [GitHub](https://github.com/fdbtrs)
 
