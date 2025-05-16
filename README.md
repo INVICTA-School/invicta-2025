@@ -38,7 +38,7 @@ Cosmin's GitHub - [GitHub](https://github.com/ci-ber)
 ## Explainable AI in Healthcare: Fundamentals, Challenges, and the Road to Trustworthy AI
 ### by Wilson Silva
 
-Talk - [Slides]()
+Talk - [Slides](https://github.com/INVICTA-School/invicta-2025/tree/e846b7560f4366ba561e0972c6b6b1c731081316/Sessions/Explainable%20AI%20in%20Healthcare%3A%20Fundamentals%2C%20Challenges%2C%20and%20the%20Road%20to%20Trustworthy%20AI/Slides)
 
 Hands-On - [Tutorial]()
 
